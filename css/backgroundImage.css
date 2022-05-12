@@ -1,0 +1,78 @@
+/* backgroundImage.css */
+
+* {
+  font-family: arial, sans-serif;
+}
+
+header {
+  border-bottom: 1px solid pink;
+}
+
+header img {
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: right;
+  padding: 1px 10px;
+}
+
+menu a {
+  text-decoration: none;
+  color: #000;
+}
+
+.container img {
+  width: 100%;
+  height: 300px;
+}
+
+.contenedor-texto {
+  position: absolute;
+  left: 70px;
+  top: 170px;
+}
+
+.texto {
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  text-align: right;
+}
+
+.texto img {
+  position: absolute;
+  right: 245px;
+}
+
+strong {
+  font-size: 45px;
+}
+
+.texto img {
+  height: 40px;
+}
+
+.texto-inscripcion {
+  color: orange;
+  font-size: 20px;
+  text-align: center;
+}
+
+.texto-inscripcion-2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.texto-inscripcion-3 {
+  text-align: center;
+}
